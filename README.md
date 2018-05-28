@@ -3,10 +3,10 @@ A curated guide to all Mobile Web Specialist participants of the Google Udacity 
 
 Notes and resources to help all participants of the Google Udacity Africa Scholarship.
 
-# Getting Started with the Mobile Web Specialist Course
+## Getting Started with the Mobile Web Specialist Course
 - this section covers step by step guidelines. 
 
-## How to Setup the Demo Wittr App
+__How to Setup the Demo Wittr App__
 
 - Ensure you have git installed on your computer  for mac (`https://git-scm.com/downloads`)
 - Clone the repo using this command: `git clone https://github.com/jakearchibald/wittr`
